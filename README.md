@@ -1,3 +1,3 @@
-this is a portfolia of my skills and projects
-skills
-projects
+this is a portfolia of my skills and projects<br>
+skills<br>
+projects<br>
