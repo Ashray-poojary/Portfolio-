@@ -20,7 +20,7 @@ body{
   color: #e6eef6;
   -webkit-font-smoothing:antialiased;
   line-height: 1.6;
-  display: flex;
+  display: center;
   align-items: center;
   justify-content: center;
   padding: 40px 20px;
@@ -66,7 +66,7 @@ p{
 }
 
 /* Inputs and form controls */
-input[type="text"], input[type="email"]{
+input[type="text"], input[type="email"], input[type="password"]{
   width: 100%;
   max-width: 420px;
   padding: 10px 14px;
@@ -78,7 +78,7 @@ input[type="text"], input[type="email"]{
   outline: none;
   transition: box-shadow .18s ease, transform .12s ease;
 }
-input[type="text"]:focus, input[type="email"]:focus{
+input[type="text"]:focus, input[type="email"], input[type="password"]:focus{
   box-shadow: 0 6px 20px rgba(11,59,90,0.22);
   transform: translateY(-1px);
   border-color: rgba(255,184,107,0.28);
