@@ -1,11 +1,11 @@
 
 :root{
-  background: rgba(2, 1, 1, 50%);
+  background: black;
   color: white;
 }
 #welcome {
   text-align: center;
-  text-shadow: 2px 2px 4px rgba(22,44,334,0.5);
+  text-shadow: 2px 2px 4px rgba(22,45,334,0.5);
 }
 
 h3 {
